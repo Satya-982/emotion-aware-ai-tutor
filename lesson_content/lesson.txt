@@ -1,0 +1,40 @@
+Topic: Python Basics
+
+Slide 1:
+Python is a high-level programming language used for web, data, AI, and automation.
+
+Hint 1:
+Python is readable due to clean, indentation-based syntax.
+
+Slide 2:
+Variables store data.
+x = 10
+name = "John"
+
+Hint 2:
+Variables are dynamically typed in Python.
+
+Slide 3:
+Control flow with if:
+if x > 5:
+    print("Greater")
+
+Hint 3:
+Indentation defines code blocks in Python.
+
+Slide 4:
+Loops repeat actions:
+for i in range(5):
+    print(i)
+
+Hint 4:
+range(5) yields 0..4
+
+Quiz Question:
+What will this print?
+for i in range(3):
+    print(i)
+A) 1 2 3
+B) 0 1 2
+C) 0 1 2 3
+Answer: B
